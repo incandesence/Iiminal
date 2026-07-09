@@ -1,4 +1,4 @@
-<div align="center"> <img width="320" height="390" src="https://files.catbox.moe/zc2pv4.webp" /> 
+<div align="center"> <img width="220" height="280" src="https://files.catbox.moe/zc2pv4.webp" /> 
 
  ${\textsf{\color{#CC8B25}i/estp 8w7/9}}$
 
