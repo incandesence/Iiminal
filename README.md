@@ -1,5 +1,5 @@
 <div align="center">
- <img width="350" height="400" src="https://files.catbox.moe/to6z2t.png" /> 
+ <img width="450" height="500" src="https://files.catbox.moe/to6z2t.png" /> 
 
  ${\textsf{\color{#CC8B25}"Fiyahh!!"}}$
 
