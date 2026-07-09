@@ -1,4 +1,4 @@
-<div align="center"> <img width="420" height="500" src="https://files.catbox.moe/3pr4bd.gif" /> 
+<div align="center"> <img width="320" height="400" src="https://files.catbox.moe/zc2pv4.webp" /> 
 
  ${\textsf{\color{#CC8B25}"Fiyahh!!"}}$
 
