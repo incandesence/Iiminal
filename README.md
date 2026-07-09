@@ -1,8 +1,6 @@
-<div align="center"> <img width="320" height="400" src="https://files.catbox.moe/zc2pv4.webp" /> 
+<div align="center"> <img width="320" height="390" src="https://files.catbox.moe/zc2pv4.webp" /> 
 
- ${\textsf{\color{#CC8B25}"Fiyahh!!"}}$
-
- ${\textsf{\color{#A50004}i/estp}}$
+ ${\textsf{\color{#CC8B25}i/estp}}$
 
  ${\textsf{\color{#121212}「}}$ <a href="https://incandescence.atabook.org/https://incandescence.atabook.org/">atabook</a> ${\textsf{\color{#FAF0DE}∶}}$ ${\textsf{\color{#595959}other links soon to be made}}$
  <br></br><img src="https://komarev.com/ghpvc/?username=foxiln&label=fans&color=A50004&base=1168306&style=for-the-badge">
